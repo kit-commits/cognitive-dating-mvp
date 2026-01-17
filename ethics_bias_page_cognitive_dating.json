@@ -1,0 +1,16 @@
+{
+  "ethics_bias_page": {
+    "title": "Ethics, Privacy & User Consent",
+    "body": "This section outlines the ethical considerations and privacy practices for the Cognitive Dating App, ensuring responsible handling of cognitive and personal data.",
+    "data_limits": [
+      "Does not make guarantees about compatibility or match success.",
+      "Does not share personal information with third parties.",
+      "Data is used only for generating match suggestions and is not sold."
+    ],
+    "bias_disclosure": [
+      "Matches are based on simplified cognitive style logic and may not reflect the full complexity of human behavior.",
+      "Some cognitive styles may be underrepresented in the mock logic."
+    ],
+    "opt_in_language": "By using this app, you agree to allow Cognitive Dating to process your cognitive style and profile information for match suggestions. Participation is voluntary and data is handled responsibly."
+  }
+}
