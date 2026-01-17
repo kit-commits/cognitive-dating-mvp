@@ -1,0 +1,69 @@
+{
+    "landing": {
+        "title": "Welcome To A High Cognitive Dating Experience",
+        "body": "Welcome to verified nerd land."
+    }, 
+    "information": {
+        "title": "We Do Date",
+        "body": "This platform focuses on how people think, reason, and communicate—not just appearance."
+    }, 
+    "qr_code": {
+        "title": "Scan Your QR Code",
+        "description": "Scan A QR code to confirm membership."
+    },
+    "log_in": {
+        "title": "Log In",
+        "description": "Enter user email and password."
+    }, 
+    "navigation_menu": {
+        "title": "Navigation Menu",
+        "description": "This section details how the user can navigate between matches, profiles, and filters."
+    }, 
+    "profile_page": {
+        "title": "Profile Page",
+        "description": "Includes a photo, age, location, I.Q. range, and 3 badges for thought process."
+    }, 
+    "match_page": {
+        "title": "Match Page",
+        "description": "Choose between viewing matches in a card view style vs. list view style.",
+         "matches": {
+            "views": {
+                "card": {
+                    "description": "Card view includes a photo, age, location, I.Q. range, and 3 badges for thought process. Buttons for like and message user."
+                },
+                "list": {
+                    "description": "List view includes a name, photo, age, and location."   
+                }       
+            }
+         }
+    
+    },
+    "card_view": {
+        "title": "Card View",
+        "description": "Includes a photo, age, location, I.Q. range, and 3 badges for thought process. Buttons for like and message user."
+    }, 
+    "list_view": {
+        "title": "List View",
+        "description": "Includes a name, photo, age, and location."
+    }, 
+    "likes_and_swipes": {
+        "title": "Likes and Swipes",
+        "description": "Filter interests, view list, conversation prompts, and badges."
+    }, 
+    "find_minds_like_yours": {
+        "title": "Find Minds Like Yours",
+        "description": "search users with either a search bar and or 14 cognitive style thought process buttons."
+    },
+    "conversations": {
+        "title": "Conversations",
+        "description": "Explore six cognitively challenging thought process prompts."
+    }, 
+    "cognitive_styles": {
+        "title": "Cognitive Styles",
+        "description": "Six cognitive style prompts."
+    },
+    "cognitive_styles_answers": {
+        "title": "Cognitive Styles Answers",
+        "description": "This section allows the user to answer back to cognitive style prompts."
+    }
+}
